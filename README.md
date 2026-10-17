@@ -1,4 +1,4 @@
-👋 Hi, I’m Vinay Venkat 
+👋 Hi, I’m Vinay Venket 
 👀 I’m interested in software engineering, coding best practices, and developing efficient algorithms.
 🌱 I’m currently learning new frameworks and exploring cloud computing technologies.
 💞️ I’m looking to collaborate on open-source projects, innovative software solutions, and hackathons.
