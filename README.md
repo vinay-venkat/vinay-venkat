@@ -1,5 +1,5 @@
 <!-- =====================================================================
-     K. Vinay Venkat — GitHub Profile README (ultimate single-file edition)
+     K. Vinay Venket — GitHub Profile README (complete single-file edition)
      Repository name must be exactly: vinay-venkat  (public)
      Upload or paste this whole file as README.md in the repository root.
      No other files or setup needed.
@@ -8,7 +8,7 @@
 <!-- ============================ HERO ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,40:1E3A8A,70:2563EB,100:22D3EE&height=260&section=header&text=K.%20VINAY%20VENKAT&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%2FML%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ENGINEER%20%E2%80%A2%20TECHNOLOGY%20ENTHUSIAST&descSize=16&descAlignY=60" width="100%" alt="Animated header banner: K. Vinay Venkat, AI/ML Developer, Software Engineer, Technology Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,40:1E3A8A,70:2563EB,100:22D3EE&height=260&section=header&text=K.%20VINAY%20VENKET&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%2FML%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ENGINEER%20%E2%80%A2%20TECHNOLOGY%20ENTHUSIAST&descSize=16&descAlignY=60" width="100%" alt="Animated header banner: K. Vinay Venket, AI/ML Developer, Software Engineer, Technology Enthusiast" />
 
 <a href="https://github.com/vinay-venkat">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=50&lines=Building+intelligent+applications+with+AI;Exploring+Machine+Learning+and+Deep+Learning;Turning+ideas+into+practical+software;Developing+Generative+AI+applications;Exploring+Quantum+Computing;Learning.+Building.+Innovating." alt="Typing animation: Building intelligent applications with AI, exploring machine learning, generative AI and quantum computing" />
@@ -36,7 +36,10 @@
 <sub>
 <a href="#-about-me">About</a> &nbsp;•&nbsp;
 <a href="#-exploring">Exploring</a> &nbsp;•&nbsp;
+<a href="#-experience">Experience</a> &nbsp;•&nbsp;
+<a href="#-education">Education</a> &nbsp;•&nbsp;
 <a href="#-featured-projects">Projects</a> &nbsp;•&nbsp;
+<a href="#-certifications">Certifications</a> &nbsp;•&nbsp;
 <a href="#-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
 <a href="#-github-stats">Stats</a> &nbsp;•&nbsp;
 <a href="#-contact">Contact</a>
@@ -46,52 +49,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,50:2563EB,100:22D3EE&height=3" width="100%" alt="Section divider" />
 
-<table width="100%">
-  <tr>
-    <td align="center" valign="top" width="20%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:2563EB&height=4" width="100%" alt="Card accent" />
-      <h2>🌐</h2>
-      <a href="https://vinay-vortex.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-22D3EE?style=for-the-badge&logo=netlify&logoColor=0B1026" alt="Visit Portfolio" /></a>
-      <br/><sub>My personal website</sub>
-      <br/><br/>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=4" width="100%" alt="Card accent" />
-      <h2>🎓</h2>
-      <a href="https://remix-centuriongpt-381916554782.asia-southeast1.run.app/"><img src="https://img.shields.io/badge/CENTURIONGPT-2563EB?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Launch CenturionGPT" /></a>
-      <br/><sub>AI university assistant</sub>
-      <br/><br/>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=4" width="100%" alt="Card accent" />
-      <h2>🤝</h2>
-      <a href="https://find-make-team.ai.studio/"><img src="https://img.shields.io/badge/FIND--MAKE--TEAM-7C3AED?style=for-the-badge" alt="Explore Find-Make-Team" /></a>
-      <br/><sub>Team-building idea</sub>
-      <br/><br/>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:22D3EE&height=4" width="100%" alt="Card accent" />
-      <h2>🗣️</h2>
-      <a href="https://github.com/samvaadsaathi/SamvaadSaathi"><img src="https://img.shields.io/badge/SAMVAADSAATHI-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View SamvaadSaathi Repository" /></a>
-      <br/><sub>AAC project repository</sub>
-      <br/><br/>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:22D3EE&height=4" width="100%" alt="Card accent" />
-      <h2>📂</h2>
-      <a href="https://github.com/vinay-venkat?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse All Repositories" /></a>
-      <br/><sub>Code and experiments</sub>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-
 <!-- ============================ ABOUT ============================ -->
 ## 👋 About Me
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=94A3B8&width=600&height=28&repeat=false&lines=Who+I+am+and+what+I+care+about" alt="Section subtitle: who I am and what I care about" />
 
-Hi, I’m **K. Vinay Venkat**, a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning** at Centurion University of Technology and Management.
+Hi, I’m **K. Vinay Venket**, a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning** at Centurion University of Technology and Management.
 
 I’m passionate about developing intelligent applications, exploring emerging technologies, and transforming innovative ideas into practical software solutions.
 
@@ -102,7 +65,7 @@ I enjoy working across the development lifecycle, from exploring an idea and des
 <div align="center">
 
 <!-- Animated intro card -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=600&color=22D3EE&background=0B1026&center=true&vCenter=true&multiline=true&repeat=false&width=560&height=130&lines=K.+Vinay+Venkat;AI%2FML+Developer+%7C+Software+Engineer;AI%2FML+%E2%80%A2+Generative+AI+%E2%80%A2+Software+Development;LLM+apps+%E2%80%A2+RAG+%E2%80%A2+AI+agents+%E2%80%A2+Quantum+Computing" alt="Animated card: K. Vinay Venkat, AI/ML Developer and Software Engineer, focused on AI/ML, generative AI and software development" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=600&color=22D3EE&background=0B1026&center=true&vCenter=true&multiline=true&repeat=false&width=560&height=130&lines=K.+Vinay+Venket;AI%2FML+Developer+%7C+Software+Engineer;AI%2FML+%E2%80%A2+Generative+AI+%E2%80%A2+Software+Development;LLM+apps+%E2%80%A2+RAG+%E2%80%A2+AI+agents+%E2%80%A2+Quantum+Computing" alt="Animated card: K. Vinay Venket, AI/ML Developer and Software Engineer, focused on AI/ML, generative AI and software development" />
 
 </div>
 
@@ -138,6 +101,8 @@ I enjoy working across the development lifecycle, from exploring an idea and des
   </tr>
 </table>
 
+<div align="center">
+
 📫 **Contact:** [konduruvinayvenkat@gmail.com](mailto:konduruvinayvenkat@gmail.com)
 
 *Learn continuously. Build intelligently. Create meaningful impact.*
@@ -160,7 +125,7 @@ flowchart LR
 
 ```mermaid
 mindmap
-  root((K. Vinay Venkat))
+  root((K. Vinay Venket))
     Artificial Intelligence
       Machine Learning
       Deep Learning
@@ -180,7 +145,7 @@ mindmap
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,50:2563EB,100:22D3EE&height=3" width="100%" alt="Section divider" />
 
-<!-- ============================ CURRENT FOCUS ============================ -->
+<!-- ============================ EXPLORING ============================ -->
 ## 🔭 Exploring
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=94A3B8&width=600&height=28&repeat=false&lines=What+I%E2%80%99m+learning+and+experimenting+with" alt="Section subtitle: what I’m learning and experimenting with" />
@@ -224,6 +189,80 @@ mindmap
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,50:2563EB,100:22D3EE&height=3" width="100%" alt="Section divider" />
 
+<!-- ============================ EXPERIENCE ============================ -->
+## 💼 Experience
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=94A3B8&width=600&height=28&repeat=false&lines=Where+I%E2%80%99ve+worked+and+what+I+do+best" alt="Section subtitle: where I’ve worked and what I do best" />
+
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <h3>🏍️ Apprentice – Data Entry &nbsp;·&nbsp; Royal Enfield</h3>
+      <sub>Full-time &nbsp;|&nbsp; On-site &nbsp;|&nbsp; Chennai, Tamil Nadu, India &nbsp;|&nbsp; Jun 2025 – Oct 2025 (5 months)</sub>
+      <ul>
+        <li>Performed accurate data entry and maintained organizational records.</li>
+        <li>Assisted with documentation and routine administrative tasks.</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Data%20Entry-0B1026?style=flat-square&logoColor=22D3EE" alt="Data entry" />
+      <img src="https://img.shields.io/badge/Documentation-0B1026?style=flat-square&logoColor=22D3EE" alt="Documentation" />
+      <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-0B1026?style=flat-square&logoColor=22D3EE" alt="Exploratory data analysis" />
+      <img src="https://img.shields.io/badge/Business%20Development%20Consultancy-0B1026?style=flat-square&logoColor=22D3EE" alt="Business development consultancy" />
+    </td>
+  </tr>
+</table>
+
+### ⭐ Top Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0891B2?style=for-the-badge" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Full--Stack%20Development-22D3EE?style=for-the-badge&logoColor=0B1026&labelColor=22D3EE" alt="Full-Stack Development" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,50:2563EB,100:22D3EE&height=3" width="100%" alt="Section divider" />
+
+<!-- ============================ EDUCATION ============================ -->
+## 🎓 Education
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=94A3B8&width=600&height=28&repeat=false&lines=My+academic+journey+so+far" alt="Section subtitle: my academic journey so far" />
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <h2>🎓</h2>
+      <img src="https://img.shields.io/badge/B.TECH%20(LATERAL)-2563EB?style=for-the-badge" alt="B.Tech Lateral" />
+      <p><b>Computer Science and Engineering</b><br/>(AI &amp; Machine Learning)<br/>Centurion University (CUTM)</p>
+      <img src="https://img.shields.io/badge/2025%20--%202028-Pursuing-22C55E?style=flat-square" alt="2025 to 2028, pursuing" />
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=4" width="100%" alt="Card accent" />
+      <h2>📘</h2>
+      <img src="https://img.shields.io/badge/DIPLOMA-7C3AED?style=for-the-badge" alt="Diploma" />
+      <p><b>Computer Science Engineering</b><br/>Centurion University (CUTM)</p>
+      <img src="https://img.shields.io/badge/Sep%202022%20--%20May%202025-0B1026?style=flat-square" alt="Sep 2022 to May 2025" />
+      <img src="https://img.shields.io/badge/CGPA-8.1-22C55E?style=flat-square" alt="CGPA 8.1" />
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <h2>🏫</h2>
+      <img src="https://img.shields.io/badge/SECONDARY-0891B2?style=for-the-badge" alt="Secondary education" />
+      <p><b>High School / Secondary Diploma</b><br/>Rajiv Gandhi Memorial Polytechnic</p>
+      <img src="https://img.shields.io/badge/Scored-82%25-22C55E?style=flat-square" alt="Scored 82 percent" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,50:2563EB,100:22D3EE&height=3" width="100%" alt="Section divider" />
+
 <!-- ============================ FEATURED PROJECTS ============================ -->
 ## 🚀 Featured Projects
 
@@ -232,43 +271,78 @@ mindmap
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 CenturionGPT</h3>
-      <p>An AI-powered university assistant concept for Centurion University of Technology and Management (CUTM), designed to make academic information easier to access through conversational AI, intelligent search, and document understanding.</p>
-      <p><b>Stack and concepts:</b><br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=4" width="100%" alt="Card accent" />
+      <h3>🎓 CenturionGPT <sub>(Founder)</sub></h3>
+      <sub>May 2026 – Present</sub>
+      <p>An AI-based academic intelligence system for CUTM students. It answers questions about subjects, syllabus and credits, CGPA/SGPA calculation, exam timetables and notices, and university documents.</p>
       <img src="https://img.shields.io/badge/Python-0B1026?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
       <img src="https://img.shields.io/badge/FastAPI-0B1026?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
       <img src="https://img.shields.io/badge/Gemini%20API-0B1026?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini API" />
       <img src="https://img.shields.io/badge/MongoDB%20Atlas-0B1026?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB Atlas" />
       <img src="https://img.shields.io/badge/React-0B1026?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/RAG-0B1026?style=flat-square&logoColor=22D3EE" alt="Retrieval-Augmented Generation" /></p>
+      <img src="https://img.shields.io/badge/RAG-0B1026?style=flat-square&logoColor=22D3EE" alt="RAG" />
       <details>
         <summary><b>Goals and explored capabilities</b></summary>
         <br/>
         These are project goals and explored capabilities, not a list of finished features:
         <ul>
-          <li>Gemini AI integration</li>
-          <li>Retrieval-Augmented Generation (RAG)</li>
-          <li>Academic information assistance</li>
+          <li>Gemini AI integration and Retrieval-Augmented Generation (RAG)</li>
           <li>SGPA and CGPA analysis from academic data</li>
-          <li>Syllabus exploration</li>
-          <li>Notices and timetable information</li>
-          <li>Placement updates</li>
+          <li>Syllabus exploration, notices and timetables, placement updates</li>
           <li>Document understanding (PDF, DOCX, PPT, Excel, images)</li>
-          <li>Semantic search</li>
-          <li>Voice interaction</li>
+          <li>Semantic search and voice interaction</li>
           <li>Admin-managed university information</li>
         </ul>
       </details>
       <p><a href="https://remix-centuriongpt-381916554782.asia-southeast1.run.app/">🔗 <b>Launch CenturionGPT</b></a></p>
     </td>
     <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <h3>🚪 Smart AI Door Vision Security</h3>
+      <sub>Mar 2026 – May 2026</sub>
+      <p>A computer-vision-based smart door security system built with Python and FastAPI. It recognises known faces from a live camera feed, grants or denies access, sends alerts, and keeps a dashboard of recent detections.</p>
+      <img src="https://img.shields.io/badge/Python-0B1026?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-0B1026?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-0B1026?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="Computer Vision" />
+      <!-- TODO: replace the link below with this project's repository -->
+      <p><a href="https://github.com/vinay-venkat?tab=repositories">🔗 <b>View on GitHub</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=4" width="100%" alt="Card accent" />
+      <h3>🤝 TeamForge <sub>(Student Collaboration &amp; Team Matcher)</sub></h3>
+      <sub>🥈 Runner-Up, CodeVerse Hackathon 2026 &nbsp;|&nbsp; built with Warish Khan</sub>
+      <p>A web application that helps students find the right teammates for hackathons, coding competitions, and innovative projects, with balanced team formation.</p>
+      <img src="https://img.shields.io/badge/Team%20Discovery-0B1026?style=flat-square&logoColor=22D3EE" alt="Team discovery" />
+      <img src="https://img.shields.io/badge/Balanced%20Teams-0B1026?style=flat-square&logoColor=22D3EE" alt="Balanced teams" />
+      <img src="https://img.shields.io/badge/Project%20Management-0B1026?style=flat-square&logoColor=22D3EE" alt="Project management" />
+      <img src="https://img.shields.io/badge/Problem%20Solving-0B1026?style=flat-square&logoColor=22D3EE" alt="Problem solving" />
+      <p>
+        <a href="https://teamforge.netlify.app">🔗 <b>Open TeamForge</b></a> &nbsp;•&nbsp;
+        <a href="https://find-make-team.ai.studio/">✨ <b>AI Studio version</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <h3>🩸 PulseConnect FindONers</h3>
+      <sub>Aug 2024 – Dec 2024</sub>
+      <p>An AI-powered healthcare discovery platform to find nearby hospitals, doctors, pharmacies, diagnostic centres, blood banks, and ambulance services, with maps, filters, and emergency contacts.</p>
+      <img src="https://img.shields.io/badge/Full--Stack%20Development-0B1026?style=flat-square&logoColor=22D3EE" alt="Full-stack development" />
+      <img src="https://img.shields.io/badge/MongoDB-0B1026?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      <!-- TODO: replace the link below with this project's repository or live link -->
+      <p><a href="https://github.com/vinay-venkat?tab=repositories">🔗 <b>View on GitHub</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:2563EB&height=4" width="100%" alt="Card accent" />
       <h3>🗣️ SamvaadSaathi</h3>
       <p>A regional-language Augmentative and Alternative Communication (AAC) project focused on supporting accessible communication through symbols, vocabulary, and regional-language support.</p>
-      <p><b>Stack and concepts:</b><br/>
       <img src="https://img.shields.io/badge/Python-0B1026?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
       <img src="https://img.shields.io/badge/FastAPI-0B1026?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
       <img src="https://img.shields.io/badge/Dataset%20Processing-0B1026?style=flat-square&logoColor=22D3EE" alt="Dataset preparation and processing" />
-      <img src="https://img.shields.io/badge/Regional%20Language%20Mapping-0B1026?style=flat-square&logoColor=22D3EE" alt="Regional-language mapping" /></p>
+      <img src="https://img.shields.io/badge/Regional%20Language%20Mapping-0B1026?style=flat-square&logoColor=22D3EE" alt="Regional-language mapping" />
       <details>
         <summary><b>Project context</b></summary>
         <br/>
@@ -282,18 +356,8 @@ mindmap
       </details>
       <p><a href="https://github.com/samvaadsaathi/SamvaadSaathi">🔗 <b>View SamvaadSaathi Repository</b></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>🤝 Find-Make-Team</h3>
-      <p>A project concept for helping people discover teammates and form balanced teams for hackathons, student projects, and collaborative work.</p>
-      <p><b>Idea areas:</b><br/>
-      <img src="https://img.shields.io/badge/Team%20Discovery-0B1026?style=flat-square&logoColor=22D3EE" alt="Team discovery" />
-      <img src="https://img.shields.io/badge/Balanced%20Teams-0B1026?style=flat-square&logoColor=22D3EE" alt="Balanced team formation" />
-      <img src="https://img.shields.io/badge/Hackathons-0B1026?style=flat-square&logoColor=22D3EE" alt="Hackathons" /></p>
-      <p><a href="https://find-make-team.ai.studio/">🔗 <b>Explore Find-Make-Team</b></a></p>
-    </td>
-    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=4" width="100%" alt="Card accent" />
       <h3>📂 Explore More Projects</h3>
       <p>Browse my other work, experiments, and repositories on GitHub.</p>
       <p><a href="https://github.com/vinay-venkat?tab=repositories">🔗 <b>Browse All Repositories</b></a></p>
@@ -327,6 +391,130 @@ flowchart TD
 ```
 
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,50:2563EB,100:22D3EE&height=3" width="100%" alt="Section divider" />
+
+<!-- ============================ CERTIFICATIONS ============================ -->
+## 🏅 Certifications
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=94A3B8&width=600&height=28&repeat=false&lines=Credentials+I%E2%80%99ve+earned+along+the+way" alt="Section subtitle: credentials I’ve earned along the way" />
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <h3>📊 Data Visualisation: Empowering Business with Effective Insights</h3>
+      <b>Tata Technologies</b> · Job Simulation on Forage · Oct 2026<br/><br/>
+      <img src="https://img.shields.io/badge/Data%20Visualization-0B1026?style=flat-square&logoColor=22D3EE" alt="Data visualization" />
+      <img src="https://img.shields.io/badge/Tableau-0B1026?style=flat-square&logo=tableau&logoColor=E97627" alt="Tableau" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <h3>🔍 Data Analytics Job Simulation</h3>
+      <b>Deloitte Australia</b> · Forage · Oct 2026<br/><br/>
+      <img src="https://img.shields.io/badge/Data%20Analysis-0B1026?style=flat-square&logoColor=22D3EE" alt="Data analysis" />
+      <img src="https://img.shields.io/badge/Tableau-0B1026?style=flat-square&logo=tableau&logoColor=E97627" alt="Tableau" />
+      <img src="https://img.shields.io/badge/Forensic%20Technology-0B1026?style=flat-square&logoColor=22D3EE" alt="Forensic technology" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=4" width="100%" alt="Card accent" />
+      <h3>🧠 AI’s New Superpower: Multimodal Retrieval-Augmented Generation</h3>
+      <b>IBM SkillsBuild</b> · Sep 2026<br/><br/>
+      <img src="https://img.shields.io/badge/RAG-0B1026?style=flat-square&logoColor=22D3EE" alt="RAG" />
+      <img src="https://img.shields.io/badge/Generative%20AI-0B1026?style=flat-square&logoColor=22D3EE" alt="Generative AI" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <h3>✨ Generative AI for Educators with Gemini</h3>
+      <b>Google</b> · Sep 2026<br/><br/>
+      <img src="https://img.shields.io/badge/Artificial%20Intelligence-0B1026?style=flat-square&logoColor=22D3EE" alt="Artificial intelligence" />
+      <img src="https://img.shields.io/badge/Generative%20AI-0B1026?style=flat-square&logoColor=22D3EE" alt="Generative AI" />
+    </td>
+  </tr>
+</table>
+
+<!-- Add your credential links here later, for example: [View credential](https://...) -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,50:2563EB,100:22D3EE&height=3" width="100%" alt="Section divider" />
+
+<!-- ============================ ACHIEVEMENTS ============================ -->
+## 🏆 Achievements & Highlights
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=94A3B8&width=600&height=28&repeat=false&lines=Hackathons%2C+internships%2C+training+and+learning" alt="Section subtitle: hackathons, internships, training and learning" />
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h2>🥈</h2>
+      <b>Runner-Up</b><br/>CodeVerse Hackathon 2026<br/>
+      <sub>TeamForge · Centurion University</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h2>🎖️</h2>
+      <b>Smart India Hackathon 2026</b><br/>Certificate of Participation<br/>
+      <sub>31 Aug 2026 · Paralakhemundi Campus</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h2>🤖</h2>
+      <b>Machine Learning Intern</b><br/>CodeAlpha (Virtual)<br/>
+      <sub>20 Oct – 20 Nov 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h2>💻</h2>
+      <b>GeeksforGeeks CUTM Training</b><br/>16-week program completed<br/>
+      <sub>Paralakhemundi Campus</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h2>📈</h2>
+      <b>Intermediate Machine Learning</b><br/>Kaggle Learn<br/>
+      <sub>Completed Aug 2026</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h2>🧩</h2>
+      <b>Anthropic Learning Programs</b><br/>Claude 101 · Intro to Model Context Protocol<br/>
+      <sub>and more</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h2>🌟</h2>
+      <b>Gemini Certified Student</b><br/>University · Google for Education
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h2>⚡</h2>
+      <b>AI Tools &amp; Claude Workshop</b><br/>BE10X<br/>
+      <sub>16 Oct 2026</sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h2>🐍</h2>
+      <b>Currently learning</b><br/>Advanced Python on freeCodeCamp<br/>
+      <sub>In progress</sub>
+    </td>
+  </tr>
+</table>
+
+### 💼 Freelance Web & App Development
+
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <p>Together with <b>Warish Khan</b>, I help businesses, startups, and individuals turn their ideas into functional websites and applications.</p>
+      <img src="https://img.shields.io/badge/Business%20%26%20Portfolio%20Websites-0B1026?style=flat-square&logoColor=22D3EE" alt="Business and portfolio websites" />
+      <img src="https://img.shields.io/badge/Custom%20Web%20Apps-0B1026?style=flat-square&logoColor=22D3EE" alt="Custom web applications" />
+      <img src="https://img.shields.io/badge/Mobile%20Apps-0B1026?style=flat-square&logoColor=22D3EE" alt="Mobile app development" />
+      <img src="https://img.shields.io/badge/Responsive%20Design-0B1026?style=flat-square&logoColor=22D3EE" alt="Responsive design" />
+      <p>
+        <a href="https://www.fiverr.com/users/vinayaka_123/portfolio"><b>🔗 Fiverr Portfolio</b></a> &nbsp;•&nbsp;
+        <a href="mailto:konduruvinayvenkat@gmail.com"><b>✉️ Get in touch</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,50:2563EB,100:22D3EE&height=3" width="100%" alt="Section divider" />
 
@@ -407,30 +595,6 @@ flowchart TD
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,50:2563EB,100:22D3EE&height=3" width="100%" alt="Section divider" />
 
-<!-- ============================ LEARNING ============================ -->
-## 🏅 Experience, Certifications & Learning
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=94A3B8&width=600&height=28&repeat=false&lines=What+I%E2%80%99ve+completed+and+what+I%E2%80%99m+learning+next" alt="Section subtitle: what I’ve completed and what I’m learning next" />
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✅ Completed</h3>
-      <b>Deloitte Australia Data Analytics Job Simulation</b><br/>
-      <sub>Forage</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Data%20Analytics-Job%20Simulation-22C55E?style=flat-square" alt="Data Analytics Job Simulation" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Ongoing Learning</h3>
-      AI/ML project development, Generative AI applications, quantum computing exploration, and practical software development.
-    </td>
-  </tr>
-</table>
-
-<!-- Add verified certificates and achievements here later. -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,50:2563EB,100:22D3EE&height=3" width="100%" alt="Section divider" />
-
 <!-- ============================ GOALS ============================ -->
 ## 🎯 Current Goals
 
@@ -491,11 +655,41 @@ flowchart TD
 
 <table width="100%">
   <tr>
-    <td align="center" width="20%"><a href="https://vinay-vortex.netlify.app/">🌐<br/><b>Visit Portfolio</b></a></td>
-    <td align="center" width="20%"><a href="https://remix-centuriongpt-381916554782.asia-southeast1.run.app/">🎓<br/><b>Launch CenturionGPT</b></a></td>
-    <td align="center" width="20%"><a href="https://find-make-team.ai.studio/">🤝<br/><b>Explore Find-Make-Team</b></a></td>
-    <td align="center" width="20%"><a href="https://github.com/samvaadsaathi/SamvaadSaathi">🗣️<br/><b>View SamvaadSaathi Repository</b></a></td>
-    <td align="center" width="20%"><a href="https://github.com/vinay-venkat?tab=repositories">📂<br/><b>Browse All Repositories</b></a></td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:2563EB&height=4" width="100%" alt="Card accent" />
+      <h2>🌐</h2>
+      <a href="https://vinay-vortex.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-22D3EE?style=for-the-badge&logo=netlify&logoColor=0B1026" alt="Visit Portfolio" /></a>
+      <br/><sub>My personal website</sub>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=4" width="100%" alt="Card accent" />
+      <h2>🎓</h2>
+      <a href="https://remix-centuriongpt-381916554782.asia-southeast1.run.app/"><img src="https://img.shields.io/badge/CENTURIONGPT-2563EB?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Launch CenturionGPT" /></a>
+      <br/><sub>AI university assistant</sub>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=4" width="100%" alt="Card accent" />
+      <h2>🤝</h2>
+      <a href="https://teamforge.netlify.app"><img src="https://img.shields.io/badge/TEAMFORGE-7C3AED?style=for-the-badge" alt="Open TeamForge" /></a>
+      <br/><sub>Hackathon runner-up</sub>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <h2>🗣️</h2>
+      <a href="https://github.com/samvaadsaathi/SamvaadSaathi"><img src="https://img.shields.io/badge/SAMVAADSAATHI-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View SamvaadSaathi Repository" /></a>
+      <br/><sub>AAC project repository</sub>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <h2>📂</h2>
+      <a href="https://github.com/vinay-venkat?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse All Repositories" /></a>
+      <br/><sub>Code and experiments</sub>
+      <br/><br/>
+    </td>
   </tr>
 </table>
 
@@ -514,7 +708,7 @@ I’m always interested in connecting with people who enjoy learning, building, 
 
 <br/>
 
-<a href="mailto:konduruvinayvenkat@gmail.com"><img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email K. Vinay Venkat" /></a>
+<a href="mailto:konduruvinayvenkat@gmail.com"><img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email K. Vinay Venket" /></a>
 <a href="https://www.linkedin.com/in/konduruvinay-venkat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/vinay-venkat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
