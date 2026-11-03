@@ -46,6 +46,46 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1026,50:2563EB,100:22D3EE&height=3" width="100%" alt="Section divider" />
 
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="20%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:2563EB&height=4" width="100%" alt="Card accent" />
+      <h2>🌐</h2>
+      <a href="https://vinay-vortex.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-22D3EE?style=for-the-badge&logo=netlify&logoColor=0B1026" alt="Visit Portfolio" /></a>
+      <br/><sub>My personal website</sub>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=4" width="100%" alt="Card accent" />
+      <h2>🎓</h2>
+      <a href="https://remix-centuriongpt-381916554782.asia-southeast1.run.app/"><img src="https://img.shields.io/badge/CENTURIONGPT-2563EB?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Launch CenturionGPT" /></a>
+      <br/><sub>AI university assistant</sub>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=4" width="100%" alt="Card accent" />
+      <h2>🤝</h2>
+      <a href="https://find-make-team.ai.studio/"><img src="https://img.shields.io/badge/FIND--MAKE--TEAM-7C3AED?style=for-the-badge" alt="Explore Find-Make-Team" /></a>
+      <br/><sub>Team-building idea</sub>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <h2>🗣️</h2>
+      <a href="https://github.com/samvaadsaathi/SamvaadSaathi"><img src="https://img.shields.io/badge/SAMVAADSAATHI-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View SamvaadSaathi Repository" /></a>
+      <br/><sub>AAC project repository</sub>
+      <br/><br/>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <h2>📂</h2>
+      <a href="https://github.com/vinay-venkat?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse All Repositories" /></a>
+      <br/><sub>Code and experiments</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
 <!-- ============================ ABOUT ============================ -->
 ## 👋 About Me
 
@@ -69,27 +109,34 @@ I enjoy working across the development lifecycle, from exploring an idea and des
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="33%">
-      <h3>🎓</h3>
-      <b>Education</b><br/>
-      B.Tech CSE (AI &amp; ML), CUTM<br/>
-      <sub>Previously: Diploma in CSE</sub>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <h2>🎓</h2>
+      <img src="https://img.shields.io/badge/EDUCATION-2563EB?style=for-the-badge" alt="Education" />
+      <p><b>B.Tech CSE (AI &amp; ML)</b><br/>
+      Centurion University (CUTM)</p>
+      <img src="https://img.shields.io/badge/Previously-Diploma%20in%20CSE-0B1026?style=flat-square" alt="Previously: Diploma in CSE" />
+      <br/><br/>
     </td>
     <td align="center" valign="top" width="33%">
-      <h3>🎯</h3>
-      <b>Focus</b><br/>
-      AI/ML and software development<br/>
-      <sub>Open-source and meaningful projects</sub>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=4" width="100%" alt="Card accent" />
+      <h2>🎯</h2>
+      <img src="https://img.shields.io/badge/FOCUS-7C3AED?style=for-the-badge" alt="Focus" />
+      <p><b>AI/ML and</b><br/>
+      software development</p>
+      <img src="https://img.shields.io/badge/Open--source-Meaningful%20projects-0B1026?style=flat-square" alt="Open-source and meaningful projects" />
+      <br/><br/>
     </td>
     <td align="center" valign="top" width="33%">
-      <h3>🔭</h3>
-      <b>Exploring</b><br/>
-      LLM applications, RAG, AI agents<br/>
-      <sub>and quantum computing</sub>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2,100:22D3EE&height=4" width="100%" alt="Card accent" />
+      <h2>🔭</h2>
+      <img src="https://img.shields.io/badge/EXPLORING-0891B2?style=for-the-badge" alt="Exploring" />
+      <p><b>LLM applications, RAG</b><br/>
+      and AI agents</p>
+      <img src="https://img.shields.io/badge/Plus-Quantum%20Computing-0B1026?style=flat-square" alt="Plus quantum computing" />
+      <br/><br/>
     </td>
   </tr>
 </table>
-
-<div align="center">
 
 📫 **Contact:** [konduruvinayvenkat@gmail.com](mailto:konduruvinayvenkat@gmail.com)
 
