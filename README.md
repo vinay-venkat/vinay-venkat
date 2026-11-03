@@ -61,8 +61,8 @@ I enjoy working across the development lifecycle, from exploring an idea and des
 
 <div align="center">
 
-<!-- Animated terminal card -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=600&color=22D3EE&background=0B1026&center=true&vCenter=true&multiline=true&repeat=false&width=560&height=190&lines=%24+whoami;K.+Vinay+Venkat;%24+cat+role.txt;AI%2FML+Developer+%7C+Software+Engineer;%24+cat+focus.txt;AI%2FML+%E2%80%A2+Generative+AI+%E2%80%A2+Software+Development;%24+cat+exploring.txt;LLM+apps+%E2%80%A2+RAG+%E2%80%A2+AI+agents+%E2%80%A2+Quantum+Computing" alt="Animated terminal showing: K. Vinay Venkat, AI/ML Developer and Software Engineer, focused on AI/ML, generative AI and software development" />
+<!-- Animated intro card -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=600&color=22D3EE&background=0B1026&center=true&vCenter=true&multiline=true&repeat=false&width=560&height=130&lines=K.+Vinay+Venkat;AI%2FML+Developer+%7C+Software+Engineer;AI%2FML+%E2%80%A2+Generative+AI+%E2%80%A2+Software+Development;LLM+apps+%E2%80%A2+RAG+%E2%80%A2+AI+agents+%E2%80%A2+Quantum+Computing" alt="Animated card: K. Vinay Venkat, AI/ML Developer and Software Engineer, focused on AI/ML, generative AI and software development" />
 
 </div>
 
