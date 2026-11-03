@@ -62,25 +62,25 @@ I enjoy working across the development lifecycle, from exploring an idea and des
 <div align="center">
 
 <!-- Animated terminal card -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=600&color=22D3EE&background=0B1026&center=false&vCenter=true&multiline=true&repeat=false&width=640&height=190&lines=%24+whoami;K.+Vinay+Venkat;%24+cat+role.txt;AI%2FML+Developer+%7C+Software+Engineer;%24+cat+focus.txt;AI%2FML+%E2%80%A2+Generative+AI+%E2%80%A2+Software+Development;%24+cat+exploring.txt;LLM+apps+%E2%80%A2+RAG+%E2%80%A2+AI+agents+%E2%80%A2+Quantum+Computing" alt="Animated terminal showing: K. Vinay Venkat, AI/ML Developer and Software Engineer, focused on AI/ML, generative AI and software development" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=600&color=22D3EE&background=0B1026&center=true&vCenter=true&multiline=true&repeat=false&width=560&height=190&lines=%24+whoami;K.+Vinay+Venkat;%24+cat+role.txt;AI%2FML+Developer+%7C+Software+Engineer;%24+cat+focus.txt;AI%2FML+%E2%80%A2+Generative+AI+%E2%80%A2+Software+Development;%24+cat+exploring.txt;LLM+apps+%E2%80%A2+RAG+%E2%80%A2+AI+agents+%E2%80%A2+Quantum+Computing" alt="Animated terminal showing: K. Vinay Venkat, AI/ML Developer and Software Engineer, focused on AI/ML, generative AI and software development" />
 
 </div>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <h3>🎓</h3>
       <b>Education</b><br/>
       B.Tech CSE (AI &amp; ML), CUTM<br/>
       <sub>Previously: Diploma in CSE</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <h3>🎯</h3>
       <b>Focus</b><br/>
       AI/ML and software development<br/>
       <sub>Open-source and meaningful projects</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="33%">
       <h3>🔭</h3>
       <b>Exploring</b><br/>
       LLM applications, RAG, AI agents<br/>
@@ -141,7 +141,7 @@ mindmap
 > [!NOTE]
 > These are my interests and learning areas, not claims of professional mastery.
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 Artificial Intelligence</h3>
@@ -182,7 +182,7 @@ mindmap
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=94A3B8&width=600&height=28&repeat=false&lines=Things+I%E2%80%99ve+built+and+ideas+I%E2%80%99m+shaping" alt="Section subtitle: things I’ve built and ideas I’m shaping" />
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🎓 CenturionGPT</h3>
@@ -290,7 +290,7 @@ flowchart TD
 
 <!-- Icons come from skillicons.dev; Hugging Face, Qiskit and Generative AI use shields.io badges. -->
 
-<table>
+<table width="100%">
   <tr>
     <td width="22%"><b>💻 Languages</b></td>
     <td>
@@ -365,7 +365,7 @@ flowchart TD
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=94A3B8&width=600&height=28&repeat=false&lines=What+I%E2%80%99ve+completed+and+what+I%E2%80%99m+learning+next" alt="Section subtitle: what I’ve completed and what I’m learning next" />
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>✅ Completed</h3>
@@ -389,7 +389,7 @@ flowchart TD
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=94A3B8&width=600&height=28&repeat=false&lines=Where+I+want+to+grow+next" alt="Section subtitle: where I want to grow next" />
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       🤖 Build useful and reliable AI-powered applications<br/><br/>
@@ -442,7 +442,7 @@ flowchart TD
 
 ### 🔗 Explore My Work
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="20%"><a href="https://vinay-vortex.netlify.app/">🌐<br/><b>Visit Portfolio</b></a></td>
     <td align="center" width="20%"><a href="https://remix-centuriongpt-381916554782.asia-southeast1.run.app/">🎓<br/><b>Launch CenturionGPT</b></a></td>
